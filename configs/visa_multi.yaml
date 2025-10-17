@@ -82,7 +82,7 @@ MODEL:
     RECON_LOSS: { NAME: ["MSE_loss", "CosSim_loss"], weight: 1 }
 
 TRAINER:
-  MAX_EPOCH: 2
+  MAX_EPOCH: 30
   PRINT_FREQ_STEP: 10
   TB_FREQ_STEP: 1
   VAL_FREQ_EPOCH: 10
