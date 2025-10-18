@@ -93,7 +93,7 @@ SAVER:
   LOG_DIR: log/
   ALWAYS_SAVE: True
   AUTO_RESUME: True
-  # RESUME_MODEL: ./experiments/visa_part2_multi/visa/log/visa_part2_multi_toy_ckpt.pth_best.pth.tar
+  # \RESUME_MODEL: ./experiments/visa_part2_multi/visa/log/visa_part2_multi_toy_ckpt.pth_best.pth.tar
 
 EVALUATOR:
   KEY_METRIC: mean_pixel_auc

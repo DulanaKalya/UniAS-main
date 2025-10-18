@@ -96,7 +96,7 @@ SAVER:
   LOG_DIR: log/
   ALWAYS_SAVE: True
   AUTO_RESUME: True
-  RESUME_MODEL: ./experiments/mvtec_ad_wood_zipper/wood_zipper_toy/log/wood_zipper_toy_ckpt.pth_best.pth.tar
+  RESUME_MODEL: ./experiments/mvtec_ad_wood_zipper/wood/wood_zipper_toy_ckpt.pth_best.pth.tar
 
 EVALUATOR:
   KEY_METRIC: mean_pixel_auc
