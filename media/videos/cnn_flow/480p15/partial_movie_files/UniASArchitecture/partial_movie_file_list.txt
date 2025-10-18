@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/dulana-karunathilake/Downloads/UniAS-main/media/videos/cnn_flow/480p15/partial_movie_files/UniASArchitecture/1185818338_4156801312_223132457.mp4'
+file 'file:/home/dulana-karunathilake/Downloads/UniAS-main/media/videos/cnn_flow/480p15/partial_movie_files/UniASArchitecture/624642324_578446911_730677981.mp4'
+file 'file:/home/dulana-karunathilake/Downloads/UniAS-main/media/videos/cnn_flow/480p15/partial_movie_files/UniASArchitecture/624642324_2293534046_1557409066.mp4'
+file 'file:/home/dulana-karunathilake/Downloads/UniAS-main/media/videos/cnn_flow/480p15/partial_movie_files/UniASArchitecture/624642324_4006742638_646570997.mp4'
+file 'file:/home/dulana-karunathilake/Downloads/UniAS-main/media/videos/cnn_flow/480p15/partial_movie_files/UniASArchitecture/624642324_3513881074_4083639315.mp4'
+file 'file:/home/dulana-karunathilake/Downloads/UniAS-main/media/videos/cnn_flow/480p15/partial_movie_files/UniASArchitecture/624642324_1589556904_3291544321.mp4'
+file 'file:/home/dulana-karunathilake/Downloads/UniAS-main/media/videos/cnn_flow/480p15/partial_movie_files/UniASArchitecture/624642324_2187257130_2793864929.mp4'
+file 'file:/home/dulana-karunathilake/Downloads/UniAS-main/media/videos/cnn_flow/480p15/partial_movie_files/UniASArchitecture/624642324_3589507963_2538290980.mp4'

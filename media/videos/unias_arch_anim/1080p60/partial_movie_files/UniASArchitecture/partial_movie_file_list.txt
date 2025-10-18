@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/dulana-karunathilake/Downloads/UniAS-main/media/videos/unias_arch_anim/1080p60/partial_movie_files/UniASArchitecture/3529212410_2770227309_223132457.mp4'
+file 'file:/home/dulana-karunathilake/Downloads/UniAS-main/media/videos/unias_arch_anim/1080p60/partial_movie_files/UniASArchitecture/3040924799_1954281339_1299227994.mp4'
+file 'file:/home/dulana-karunathilake/Downloads/UniAS-main/media/videos/unias_arch_anim/1080p60/partial_movie_files/UniASArchitecture/3040924799_1157614820_3755925706.mp4'
+file 'file:/home/dulana-karunathilake/Downloads/UniAS-main/media/videos/unias_arch_anim/1080p60/partial_movie_files/UniASArchitecture/3040924799_3846469421_2245797276.mp4'
+file 'file:/home/dulana-karunathilake/Downloads/UniAS-main/media/videos/unias_arch_anim/1080p60/partial_movie_files/UniASArchitecture/3040924799_4247107814_1828573351.mp4'

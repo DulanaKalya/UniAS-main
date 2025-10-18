@@ -79,7 +79,7 @@ MODEL:
     RECON_LOSS: { NAME: ["MSE_loss", "CosSim_loss"], weight: 10 }
 
 TRAINER:
-  MAX_EPOCH: 10
+  MAX_EPOCH: 200
   PRINT_FREQ_STEP: 10
   TB_FREQ_STEP: 1
   VAL_FREQ_EPOCH: 10
@@ -96,7 +96,7 @@ SAVER:
   LOG_DIR: log/
   ALWAYS_SAVE: True
   AUTO_RESUME: True
-  # RESUME_MODEL: ./experiments/mvtec_ad_wood_zipper/wood_zipper_toy/log/wood_zipper_toy_ckpt.pth_best.pth.tar
+  RESUME_MODEL: ./experiments/mvtec_ad_wood_zipper/wood_zipper_toy/log/wood_zipper_toy_ckpt.pth_best.pth.tar
 
 EVALUATOR:
   KEY_METRIC: mean_pixel_auc
